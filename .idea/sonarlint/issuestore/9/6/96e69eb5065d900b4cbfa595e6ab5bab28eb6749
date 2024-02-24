@@ -1,0 +1,6 @@
+
+9kotlin:S1128"Remove this unused import.(™òæÜ8‰óµàİ1
+qkotlin:S1192í"LDefine a constant instead of duplicating this literal "ABC Airport" 3 times.(„Œ©Õøÿÿÿÿ8ÁÛ¾àİ1
+lkotlin:S1192ï"LDefine a constant instead of duplicating this literal "DEF Airport" 4 times.(ˆŞ³ë8ÁÛ¾àİ1
+rkotlin:S1192ó"MDefine a constant instead of duplicating this literal "5 hrs 10 min" 5 times.(¤ÑĞùÿÿÿÿ8ÂÛ¾àİ1
+qkotlin:S3776F"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(¸Ş¶í8ÄÛ¾àİ1
